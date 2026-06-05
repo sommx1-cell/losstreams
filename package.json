@@ -1,0 +1,12 @@
+{
+  "name": "losstreams-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para streams HLS de LosStreams",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
